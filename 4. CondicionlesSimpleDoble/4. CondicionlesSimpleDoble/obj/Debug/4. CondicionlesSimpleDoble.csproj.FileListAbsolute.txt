@@ -1,0 +1,7 @@
+C:\Users\B09S104est\Documents\carolina\4. CondicionlesSimpleDoble\4. CondicionlesSimpleDoble\bin\Debug\_4.CondicionlesSimpleDoble.exe.config
+C:\Users\B09S104est\Documents\carolina\4. CondicionlesSimpleDoble\4. CondicionlesSimpleDoble\bin\Debug\_4.CondicionlesSimpleDoble.exe
+C:\Users\B09S104est\Documents\carolina\4. CondicionlesSimpleDoble\4. CondicionlesSimpleDoble\bin\Debug\_4.CondicionlesSimpleDoble.pdb
+C:\Users\B09S104est\Documents\carolina\4. CondicionlesSimpleDoble\4. CondicionlesSimpleDoble\obj\Debug\4. CondicionlesSimpleDoble.csproj.AssemblyReference.cache
+C:\Users\B09S104est\Documents\carolina\4. CondicionlesSimpleDoble\4. CondicionlesSimpleDoble\obj\Debug\4. CondicionlesSimpleDoble.csproj.CoreCompileInputs.cache
+C:\Users\B09S104est\Documents\carolina\4. CondicionlesSimpleDoble\4. CondicionlesSimpleDoble\obj\Debug\_4.CondicionlesSimpleDoble.exe
+C:\Users\B09S104est\Documents\carolina\4. CondicionlesSimpleDoble\4. CondicionlesSimpleDoble\obj\Debug\_4.CondicionlesSimpleDoble.pdb
