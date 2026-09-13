@@ -1,0 +1,7 @@
+C:\Users\carol\Documents\Porgramacion\11.CicloDoWhile\11.CicloDoWhile\bin\Debug\11.CicloDoWhile.exe.config
+C:\Users\carol\Documents\Porgramacion\11.CicloDoWhile\11.CicloDoWhile\bin\Debug\11.CicloDoWhile.exe
+C:\Users\carol\Documents\Porgramacion\11.CicloDoWhile\11.CicloDoWhile\bin\Debug\11.CicloDoWhile.pdb
+C:\Users\carol\Documents\Porgramacion\11.CicloDoWhile\11.CicloDoWhile\obj\Debug\11.CicloDoWhile.csproj.AssemblyReference.cache
+C:\Users\carol\Documents\Porgramacion\11.CicloDoWhile\11.CicloDoWhile\obj\Debug\11.CicloDoWhile.csproj.CoreCompileInputs.cache
+C:\Users\carol\Documents\Porgramacion\11.CicloDoWhile\11.CicloDoWhile\obj\Debug\11.CicloDoWhile.exe
+C:\Users\carol\Documents\Porgramacion\11.CicloDoWhile\11.CicloDoWhile\obj\Debug\11.CicloDoWhile.pdb
