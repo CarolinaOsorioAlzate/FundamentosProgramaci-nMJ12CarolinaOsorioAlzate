@@ -1,0 +1,7 @@
+C:\Users\carol\Documents\Porgramacion\7. CiclosWhile\7. CiclosWhile\bin\Debug\_7.CiclosWhile.exe.config
+C:\Users\carol\Documents\Porgramacion\7. CiclosWhile\7. CiclosWhile\bin\Debug\_7.CiclosWhile.exe
+C:\Users\carol\Documents\Porgramacion\7. CiclosWhile\7. CiclosWhile\bin\Debug\_7.CiclosWhile.pdb
+C:\Users\carol\Documents\Porgramacion\7. CiclosWhile\7. CiclosWhile\obj\Debug\7. CiclosWhile.csproj.AssemblyReference.cache
+C:\Users\carol\Documents\Porgramacion\7. CiclosWhile\7. CiclosWhile\obj\Debug\7. CiclosWhile.csproj.CoreCompileInputs.cache
+C:\Users\carol\Documents\Porgramacion\7. CiclosWhile\7. CiclosWhile\obj\Debug\_7.CiclosWhile.exe
+C:\Users\carol\Documents\Porgramacion\7. CiclosWhile\7. CiclosWhile\obj\Debug\_7.CiclosWhile.pdb
