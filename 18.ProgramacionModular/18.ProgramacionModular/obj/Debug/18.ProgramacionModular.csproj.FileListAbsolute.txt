@@ -1,0 +1,7 @@
+C:\Users\carol\Documents\Semestre 2\Fundamentos de programación\Parciales\18.ProgramacionModular\18.ProgramacionModular\bin\Debug\18.ProgramacionModular.exe.config
+C:\Users\carol\Documents\Semestre 2\Fundamentos de programación\Parciales\18.ProgramacionModular\18.ProgramacionModular\bin\Debug\18.ProgramacionModular.exe
+C:\Users\carol\Documents\Semestre 2\Fundamentos de programación\Parciales\18.ProgramacionModular\18.ProgramacionModular\bin\Debug\18.ProgramacionModular.pdb
+C:\Users\carol\Documents\Semestre 2\Fundamentos de programación\Parciales\18.ProgramacionModular\18.ProgramacionModular\obj\Debug\18.ProgramacionModular.csproj.AssemblyReference.cache
+C:\Users\carol\Documents\Semestre 2\Fundamentos de programación\Parciales\18.ProgramacionModular\18.ProgramacionModular\obj\Debug\18.ProgramacionModular.csproj.CoreCompileInputs.cache
+C:\Users\carol\Documents\Semestre 2\Fundamentos de programación\Parciales\18.ProgramacionModular\18.ProgramacionModular\obj\Debug\18.ProgramacionModular.exe
+C:\Users\carol\Documents\Semestre 2\Fundamentos de programación\Parciales\18.ProgramacionModular\18.ProgramacionModular\obj\Debug\18.ProgramacionModular.pdb
