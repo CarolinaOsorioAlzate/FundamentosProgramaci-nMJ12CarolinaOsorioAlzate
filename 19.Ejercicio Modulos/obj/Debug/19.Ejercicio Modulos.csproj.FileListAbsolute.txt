@@ -1,0 +1,7 @@
+C:\Users\B09S104est\Documents\Carolina\19.Ejercicio Modulos\bin\Debug\19.Ejercicio Modulos.exe.config
+C:\Users\B09S104est\Documents\Carolina\19.Ejercicio Modulos\bin\Debug\19.Ejercicio Modulos.exe
+C:\Users\B09S104est\Documents\Carolina\19.Ejercicio Modulos\bin\Debug\19.Ejercicio Modulos.pdb
+C:\Users\B09S104est\Documents\Carolina\19.Ejercicio Modulos\obj\Debug\19.Ejercicio Modulos.csproj.AssemblyReference.cache
+C:\Users\B09S104est\Documents\Carolina\19.Ejercicio Modulos\obj\Debug\19.Ejercicio Modulos.csproj.CoreCompileInputs.cache
+C:\Users\B09S104est\Documents\Carolina\19.Ejercicio Modulos\obj\Debug\19.Ejercicio Modulos.exe
+C:\Users\B09S104est\Documents\Carolina\19.Ejercicio Modulos\obj\Debug\19.Ejercicio Modulos.pdb
